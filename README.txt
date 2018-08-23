@@ -2,6 +2,9 @@
 
 # CumulusClips Video CMS
 
+# You can find our site on https://mindsgaming.xyz/video-mg
+
+
 ### CONTENTS OF THIS FILE
 
  * About CumulusClips
